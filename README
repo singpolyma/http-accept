@@ -1,0 +1,4 @@
+Functions for working with HTTP Accept headers.  You may also want
+check out parseHttpAccept from wai-extra:Network.Wai.Parse (it is
+not tied to WAI in any way and some similar may make it into this
+package eventually).
